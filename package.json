@@ -1,0 +1,27 @@
+{
+    "name": "one-bordered",
+    "displayName": "One Bordered",
+    "description": "Atom's One Dark Theme, but with borders",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "keywords": [
+        "theme",
+        "one dark",
+        "atom",
+        "borders"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Bordered-color-theme.json"
+            }
+        ]
+    }
+}
