@@ -3,7 +3,7 @@
     "displayName": "One Bordered",
     "description": "Atom's One Dark Theme, but with borders",
     "publisher": "yongle",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.58.0"
     },
