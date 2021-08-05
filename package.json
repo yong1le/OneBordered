@@ -3,6 +3,10 @@
     "displayName": "One Bordered",
     "description": "Atom's One Dark Theme, but with borders",
     "publisher": "yongle",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yong1le/OneBordered"
+    },
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.58.0"
