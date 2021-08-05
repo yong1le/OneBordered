@@ -2,6 +2,7 @@
     "name": "one-bordered",
     "displayName": "One Bordered",
     "description": "Atom's One Dark Theme, but with borders",
+    "publisher": "yongle",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
@@ -10,7 +11,10 @@
         "theme",
         "one dark",
         "atom",
-        "borders"
+        "borders",
+        "one bordered",
+        "yongle",
+        "yong le"
     ],
     "categories": [
         "Themes"
